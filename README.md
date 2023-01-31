@@ -9,8 +9,12 @@ NodeJs +  (MongoDB)Mongoose
 
 <h3>Luego de clonar tu repositorio e instalar las librerías necesarias configura tus variables de entorno en un archivo <strong>.env</strong>, el archivo de ejemplo esta con nombre <strong>.env.example.</strong></h3>
 
+
 # ENDPOINTS:
 # 🚀🚀 **AUTENTICACIÓN** 🚀🚀
+
+<h4>UNA VEZ REGISTRADO, INICIA SESIÓN Y OBTEN TU TOKEN JWT PARA QUE PUEDAS ACCEDER A LAS DEMAS RUTAS ...</h4>
+
 ## **REGISTRO**
 
 🚀 **POST**
